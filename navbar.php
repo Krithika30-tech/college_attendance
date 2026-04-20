@@ -1,6 +1,7 @@
 <?php
 $current = basename($_SERVER['PHP_SELF']);
 ?>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <nav class="sidebar">
   <div class="sidebar-brand">
     <span class="brand-icon">⬡</span>
